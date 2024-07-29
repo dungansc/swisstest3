@@ -12,7 +12,7 @@ const config: HardhatUserConfig = {
   networks: {
     swisstronik: {
       url: 'https://json-rpc.testnet.swisstronik.com/',
-      accounts: [`0xecf150d93119b9641a9efaf0910abbd69f5dcff296820e81390f94a855c0e0a1`],
+      accounts: [``],
     },
   },
 }
